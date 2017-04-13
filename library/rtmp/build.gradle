@@ -44,6 +44,6 @@ apply from: '../../javadoc_library.gradle'
 
 ext {
     releaseArtifact = 'exoplayer-rtmp'
-    releaseDescription = 'The ExoPlayer library HLS module.'
+    releaseDescription = 'The ExoPlayer library RTMP module.'
 }
 apply from: '../../publish.gradle'
