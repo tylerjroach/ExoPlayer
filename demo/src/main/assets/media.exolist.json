@@ -341,7 +341,7 @@
     "samples": [
       {
         "name": "HKS-TV RTMP live stream",
-        "uri": "rtmp://live.hkstv.hk.lxdns.com/live/hks"
+        "uri": "rtmp://rtmp.stream.live:1935/stream/db668010-e6d1-4aa2-a422-49dc82f8c787"
       },
       {
         "name": "Dizzy",
